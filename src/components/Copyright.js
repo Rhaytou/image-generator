@@ -12,7 +12,7 @@ const Copyright = () => {
         font-semibold
         tracking-widest
     '
-    >Created by <a href='https://ahmadammar.vercel.app' target='blank'
+    >Created by <a href='https://github.com/Rhaytou' target='blank'
       className='
         hover:text-blue-700
         transition
@@ -20,7 +20,7 @@ const Copyright = () => {
         ease-in-out
         text-blue-500
       '
-      >Ammar</a>
+      >Slimane Rhaytou</a>
     </div>
   )
 }
